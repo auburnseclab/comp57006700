@@ -1,0 +1,7 @@
+id: comp6700
+name: COMP6700 Challenges
+type: course
+award:
+  emoji: 😀
+modules:
+  - id: module1
