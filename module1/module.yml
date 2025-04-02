@@ -1,0 +1,8 @@
+name: COMP6700 Challenges
+challenges:
+  - id: challenge1
+    name: Challenge 1
+  - id: challenge2
+    name: Challenge 2
+  - id: challenge3
+    name: Challenge 3
